@@ -1,0 +1,17 @@
+.navbar{
+    margin:7px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar h1{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.navbar li{
+    font-size: 1.2rem;
+    display: inline-block;
+    text-decoration: none;
+    margin:4px 10px;
+}
